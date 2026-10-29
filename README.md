@@ -7,3 +7,9 @@ Two Days ago I asked to my AI agent to make me a sidequest and help me to improv
 ## How It works
 
 radar repo analyze a file given in arg, return for the user a REPORT.md file
+
+## Easy to install
+
+`` pipx install radar-repo ``
+
+``radar <file-name-to-analyze>``
