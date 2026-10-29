@@ -1,0 +1,9 @@
+[project]
+name="repo-radar"
+version="0.1.0"
+
+[project.scripts]
+radar="main:main"
+
+[tool.setuptools]
+py-modules=["main"]
